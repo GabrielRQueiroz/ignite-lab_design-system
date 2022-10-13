@@ -9,11 +9,11 @@ export default {
 	args: {},
 	argTypes: {},
 	decorators: [
-		(Story) => (
-			<div className='flex items-center gap-2'>
-				<Story />
+		() => (
+			<label htmlFor='remember' className='flex items-center gap-2'>
+				<Checkbox id='remember' />
 				<Text size='sm'>Lembrar de mim por 30 dias.</Text>
-			</div>
+			</label>
 		),
 	],
 } as Meta<CheckboxProps>;
