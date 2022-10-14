@@ -1,0 +1,2 @@
+import{B as t}from"./Button.87f085c9.js";import"./index.module.05e367ab.js";import"./index.21c177bc.js";import"./iframe.8d47315b.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.66b2608d.js";const n={title:"Components/Button",component:t,args:{children:"Click me if you dare \u{1F608}"},argTypes:{asChild:{table:{disable:!0}}}},m={},p=["Default"];export{m as Default,p as __namedExportsOrder,n as default};
+//# sourceMappingURL=Button.stories.e5fe5a1c.js.map
